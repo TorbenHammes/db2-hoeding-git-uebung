@@ -1,0 +1,6 @@
+.custom-cur {
+    cursor: url('/hand-cursor-and-pointer-icons/SVG/4-1.svg');
+    &:hover {
+        cursor: url('/hand-cursor-and-pointer-icons/SVG/1-1.svg')
+    }
+  }
